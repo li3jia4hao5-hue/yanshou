@@ -1,4 +1,4 @@
 interface:
   display_name: "验收"
-  short_description: "结合子曰与婚恋项目，完成界面优化、业务评测、根因排错与证据验收"
-  default_prompt: "使用 $yanshou，结合当前项目需求完成本轮 UI、功能或验收任务，并明确验证证据和未完成项。"
+  short_description: "结合子曰与婚恋项目，完成界面优化、业务评测、硬件容量评估与交付验收"
+  default_prompt: "使用 $yanshou，结合当前项目完成本轮设计、验收或部署容量评估，明确证据、资源需求和未完成项。"
